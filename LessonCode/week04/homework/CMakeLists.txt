@@ -1,0 +1,6 @@
+#把文件夹添加到工程中
+add_subdirectory(searchstringstaticlib)
+add_subdirectory(searchstringstaticmain)
+add_subdirectory(searchstringstaticbenchmarktest)
+add_subdirectory(searchstringstaticunittest)
+

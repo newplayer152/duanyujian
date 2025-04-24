@@ -1,0 +1,12 @@
+#把practice文件夹添加到工程中
+add_subdirectory(practice/kcircle)
+add_subdirectory(practice/kcirclecmake)
+add_subdirectory(practice/circlestaticlib)
+add_subdirectory(practice/circlestaticmain)
+add_subdirectory(practice/circledynamiclib)
+add_subdirectory(practice/circledynamicmain)
+add_subdirectory(practice/configuredynamiclib)
+add_subdirectory(practice/configuredynamictest)
+add_subdirectory(practice/linkliststaticlib)
+add_subdirectory(practice/linkliststatictest)
+

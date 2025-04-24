@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/peiqi.png</file>
+        <file>image/add.png</file>
+        <file>image/background.jpg</file>
+        <file>image/border-diamonds.png</file>
+        <file>image/image.7z</file>
+        <file>image/import.png</file>
+        <file>image/LOGO.png</file>
+    </qresource>
+</RCC>

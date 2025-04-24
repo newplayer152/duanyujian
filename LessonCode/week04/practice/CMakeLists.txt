@@ -1,0 +1,5 @@
+#把文件夹添加到工程中
+add_subdirectory(tacketgrabbing)
+add_subdirectory(videodownloadplay)
+add_subdirectory(weatherobserverobserved)
+
